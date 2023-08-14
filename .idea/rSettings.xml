@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RSettings">
+    <option name="interpreterPath" value="/usr/local/R/bin/R" />
+    <option name="remoteBasePath" value="/home/haozhic/financial_spillover_network" />
+    <option name="remoteHost" value="6bc2557c-1c1d-4954-b421-bed758fdca30" />
+    <option name="saveWorkspace" value="true" />
+  </component>
+</project>
